@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "value-goods",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A shopping software for businesses to sell to customer",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -17,11 +17,10 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^1.8.4"
+    "electron": "^1.8.4",
+    "electron-builder": "^20.10.0"
   },
   "dependencies": {
-    "electron-rebuild": "^1.7.3",
-    "electron-reload": "^1.2.2",
     "i": "^0.3.6",
     "jquery": "^3.3.1",
     "pouchdb-node": "^6.4.3",
