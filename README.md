@@ -1,6 +1,8 @@
 # Shopping network: My senior year project.
 
 <img align="center" width="1000" height="500" src="front_view.png" alt="Front view of the software" />
+
+
 The above image is the front view of the software. It is as pretty as you think it is.
 
 There are two ways that you can run this program.
