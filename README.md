@@ -1,6 +1,6 @@
 # Shopping network: My senior year project.
 
-<img align="right" width="300" src="front_view.png" alt="Front view of the software" />
+<img align="center" width="500" height="500" src="front_view.png" alt="Front view of the software" />
 The above image is the front view of the software. It is as pretty as you think it is.
 
 There are two ways that you can run this program.
@@ -9,7 +9,7 @@ There are two ways that you can run this program.
 
 Download this entire repository and then open the folder Electronjs-SWE-Senior-Project. Once you are in the folder, please click the dist folder. Once you are in the dist folder, please click win-unpacked folder. Within that folder find the below file that have the same icon.
 
-<img align="right" width="300" src="program_icon.png" alt="picture of icon" />
+<img align="center" width="200" height="200" src="program_icon.png" alt="picture of icon" />
 
 That should let you open the software and you can see at of the glory for your self.
 
