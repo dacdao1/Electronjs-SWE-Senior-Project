@@ -1,5 +1,11 @@
 # Shopping network: My senior year project.
 
+**Technology used in this project**
+1. Node JS.
+2. HTML and CSS
+3. Bootstrap CSS
+4. Electron JS.
+
 <img align="center" width="1000" height="500" src="front_view.png" alt="Front view of the software" />
 
 
@@ -7,7 +13,7 @@ The above image is the front view of the software. It is as pretty as you think 
 
 There are two ways that you can run this program.
 
-1) To run it without using any command line or "magic" ways that most software engineer would know.
+1) To run it without using any command line is to do the following.
 
 Download this entire repository and then open the folder Electronjs-SWE-Senior-Project. Once you are in the folder, please click the dist folder. Once you are in the dist folder, please click win-unpacked folder. Within that folder find the below file that have the same icon.
 
@@ -15,7 +21,7 @@ Download this entire repository and then open the folder Electronjs-SWE-Senior-P
 
 That should let you open the software and you can see at of the glory for your self.
 
-2) You can run this software through the package.json and download all of the dependencies that would need to run this Electronjs file. First, you have to download node.js by going to <https://nodejs.org>. Then use your command line and follow the direction below.
+2) You can run this software through the package.json and download all of the dependencies that would need to run this Electronjs file. First, you have to download [node.js](www.nodejs.org) by going to <https://nodejs.org>. Then use your command line and follow the direction below.
 
 ```bash
 # Clone this repository
@@ -28,4 +34,3 @@ npm install
 npm start
 ```
 
-Thank you @Paul Beresuita <https://www.linkedin.com/in/paul-beresuita-15b91728> for the words of encouragement and vision to make me a better software engineer / problem solver.
